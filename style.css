@@ -41,4 +41,21 @@
 }
 .laptop{
     margin-top: 50px;
+    margin-bottom: 100px;
+}
+.my_cls{
+    margin-left: 35px;
+}
+.category_heading{
+    text-align: center;
+}
+.categories{
+    border-bottom: 5px solid orange;
+    width: 150px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
