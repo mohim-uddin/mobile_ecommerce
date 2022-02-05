@@ -25,5 +25,20 @@
     height: 300px;
 }
 .slider{
-    height: 800px;
+    height: 500px;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.prise{
+    text-align: center;
+}
+.card-footer{
+    text-align: center;
+}
+.laptop{
+    margin-top: 50px;
 }
